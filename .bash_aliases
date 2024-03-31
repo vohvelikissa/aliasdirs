@@ -11,3 +11,4 @@
 . ~/projects/bashshit/keyremaps/.bash_aliases
 . ~/projects/bashshit/neovimbashiewashies/.bash_aliases
 . ~/projects/bashshit/miscywhiskies/.bash_aliases
+. ~/projects/bashshit/updatealloftheabove/.bash_aliases
