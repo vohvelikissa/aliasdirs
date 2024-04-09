@@ -14,3 +14,4 @@
 . ~/projects/bashshit/updatealloftheabove/.bash_aliases
 . ~/projects/bashshit/godotupdater/.bash_aliases
 . ~/projects/bashshit/mouseactivities/.bash_aliases
+. ~/projects/bashshit/doesmyinternetwork/.bash_aliases
