@@ -15,3 +15,4 @@
 . ~/projects/bashshit/godotupdater/.bash_aliases
 . ~/projects/bashshit/mouseactivities/.bash_aliases
 . ~/projects/bashshit/doesmyinternetwork/.bash_aliases
+. ~/projects/bashshit/eurovisionshit/.bash_aliases
