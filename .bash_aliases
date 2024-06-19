@@ -16,3 +16,4 @@
 . ~/projects/bashshit/doesmyinternetwork/.bash_aliases
 . ~/projects/bashshit/eurovisionshit/.bash_aliases
 . ~/projects/bashshit/randompride/.bash_aliases
+. ~/projects/bashshit/chtfind/.bash_aliases
